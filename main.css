@@ -1,8 +1,21 @@
 body {
-    background-color: aqua;
+    background-color: rgb(217, 255, 0);
     text-align: center;
+    margin: 12px;
+    padding: 30px 40px;
 }
 
 .head {
-    font-size: 20px;
+    font-size: 25px;
+    color: brown;
+}
+
+.waist {
+    font-size: 18px;
+}
+
+.button {
+    padding: 12px 17px;
+    text-align: center;
+    text-decoration-color: darkblue;
 }
