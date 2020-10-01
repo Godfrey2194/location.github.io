@@ -19,3 +19,7 @@ body {
     text-align: center;
     text-decoration-color: darkblue;
 }
+
+.me {
+    font-style: italic;
+}
